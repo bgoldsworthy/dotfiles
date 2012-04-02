@@ -1,0 +1,8 @@
+map d <C-d>
+map j 5j
+map k 5k
+
+set disablesites=mail.google.com, .*.google.com\/reader
+set hintkeys=asdfjkl
+set hintkeysdisplayuppercase=1
+
